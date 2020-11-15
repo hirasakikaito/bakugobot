@@ -13,8 +13,8 @@ const tambahan = require("./lib/tambahan.js")
 const donasi = require("./lib/donasi.js");
 const info = require("./lib/info.js");
 /////////////////
-const BotName = 'NAMA BOTMU'; 
-const instagram = 'LINK INSTAGRAMU'; 
+const BotName = 'BAKUGO BOT'; 
+const instagram = 'https://www.instagram.com/hirasaki_kaito/'; 
 const telegram = 'LINK TELEMU'; 
 const kapanbotaktif = 'KETIKA HANYA DIAKTIFKAN'; 
 const youtube = 'LINK YTMU';
